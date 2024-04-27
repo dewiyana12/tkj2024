@@ -1,0 +1,93 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: auto;
+    background-color: black ;
+    color: white;
+}
+
+.siswanya {
+    text-align: center;
+}
+
+/*FOTO SISWAA*/
+.murid{
+    text-align: center;
+}
+
+/*NAMA SISWA*/
+.nama1 {
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+}
+
+
+/*FOTO MOMENT TERBAIK*/
+.foto {
+    text-align: center;
+    background-color:  white;
+    color: black;
+}
+
+
+/*VIDEOO MOMENT TERBAIK*/
+.Video {
+    background-color:  white;
+   color: black;
+   text-align: center;
+}
+
+
+/*STYEL SEMUA VIDEOO*/
+.videoo {
+    background-color: black;
+    margin: 5px;
+    color: white;
+    padding: auto;
+    font-size: auto;
+    width: auto;
+    text-align: center;
+    justify-content: center;  
+}
+
+.video1 {
+    border: 2px solid white ;
+    height: auto;
+    width: auto;
+    margin: 5px;
+    justify-content: center;
+}
+/*AKHIR DARI VIDEOOO*/
+
+
+
+/*FOTO WALI KELAS*/
+.ari {
+    text-align: center;
+}
+/*AKHIR FOTO WALI KELAS*/
+
+/*KATA AKHIR*/
+.kataakhir{
+    background-color: white;
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+}
+/*SELES KATA AKHIR*/
+
+
+/*FOTO IG DAN LOKASI*/
+ .hi {
+    font-size: 15;
+ } 
+ /*SELESAII*/
+
+
+ .venny {
+text-align: right;
+font-size: 10px;
+ }
+ 
